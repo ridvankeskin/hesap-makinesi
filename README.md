@@ -8,4 +8,4 @@ Html, Css, JavaScript
 
 <h2>Ekran Gifi</h2>
 
-![](hesap makinesi.gif)
+![](hesap-makinesi.gif)
